@@ -1,12 +1,12 @@
+import NavBar from "./components/NavBar"
+import SearchBar from "./components/SearchBar"
 
 function App() {
 
   return (
-
-    <p className="font-bold">
-      Hello
-    </p>
-
+    <main className="bg-slate-100 min-h-screen">
+      < NavBar />
+    </main>
   )
 }
 
