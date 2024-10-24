@@ -55,8 +55,8 @@ const InfoPopover = () => {
                     horizontal: 'center',
                 }}
             >
-                <Typography sx={{ p: 1 }}>
-                    Click "New Idea" to add an idea to the board
+                <Typography sx={{ p: 0.6 }}>
+                    Click the "+" icon to add an idea to the board
                 </Typography>
             </Popover>
         </div>
